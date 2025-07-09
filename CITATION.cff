@@ -4,8 +4,8 @@ authors:
     given-names: "Zixuan"
   - family-names: "Sun"
     given-names: "Mingzuo"
-title: "Uninsured Idiosyncratic Risk and Aggregate Saving" # required
-abstract: Aiyagari (1994) Replication # optional
+title: "Uninsured Idiosyncratic Risk and Aggregate Saving"
+abstract: "We present a qualitative and quantitative analysis of the standard growth model modified to include precautionary saving motives and liquidity constraints. We address the impact on the aggregate saving rate, the importance of asset trading to individuals, and the relative inequality of wealth and income distributions."
 references:
   - type: article
     authors:
@@ -15,5 +15,4 @@ references:
     doi: https://doi.org/10.2307/2118417
     date: 1994
     publisher: The Quarterly Journal of Economics
-
-repository-code: https://github.com/econ-ark/Aiyagari-Idiosyncratic # required
+repository-code: https://github.com/econ-ark/Aiyagari-Idiosyncratic
